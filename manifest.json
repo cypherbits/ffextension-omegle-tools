@@ -1,0 +1,21 @@
+{
+
+  "description": "Omegle utils: remove stranger Omegle logo, prevent your cam from being reported and get Stranger IP easily.",
+  "manifest_version": 2,
+  "name": "Omegle utils",
+  "version": "1.0",
+  "homepage_url": "https://github.com/",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.omegle.com/*"],
+      "js": ["main.js"],
+      "run_at": "document_end"
+    }
+  ]
+
+
+}
