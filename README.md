@@ -4,6 +4,7 @@
 
 ## What it does
 
-- Remove the Omegle logo from the Stranger cam.
-- Prevent your cam from being banned.
-- Show Stranger IP address and Location.
+- Remove the Omegle logo from the Stranger cam. (Done)
+- Prevent your cam from being banned. (Done)
+- Show Stranger IP address and Location. (TODO)
+- Allow use of VPN with Omegle. (TODO)
